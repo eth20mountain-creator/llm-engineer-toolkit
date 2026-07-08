@@ -99,6 +99,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 |--------------|------------------------------------------------------------------------------------------------------|-------|
 | mem0         | The Memory layer for your AI apps.                                                                     | [Link](https://github.com/mem0ai/mem0) |
 | Memoripy     | An AI memory layer with short- and long-term storage, semantic clustering, and optional memory decay for context-aware applications. | [Link](https://github.com/caspianmoon/memoripy) |
+| Tree Ring Memory | Local-first memory lifecycle for AI agents with Rust CLI/TUI, SQLite/FTS recall, audit, consolidation, and forgetting. | [Link](https://github.com/TerminallyLazy/Tree-Ring-Memory) |
 | Letta (MemGPT)     | An open-source framework for building stateful LLM applications with advanced reasoning capabilities and transparent long-term memory | [Link](https://github.com/letta-ai/letta) |
 | Memobase     | A user profile-based memory system designed to bring long-term user memory to your Generative AI applications. | [Link](https://github.com/memodb-io/memobase) |
 
@@ -332,4 +333,3 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 [![Star History Chart](https://api.star-history.com/svg?repos=KalyanKS-NLP/llm-engineer-toolkit&type=Date)](https://star-history.com/#)
 
 Please consider giving a star, if you find this repository useful. 
-
