@@ -344,6 +344,6 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 
 ## ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KalyanKS-NLP/llm-engineer-toolkit&type=Date)](https://star-history.com/#)
+[![Star History Chart](https://star-history.dera.page/svg?repos=KalyanKS-NLP/llm-engineer-toolkit&type=Date)](https://star-history.dera.page/#KalyanKS-NLP/llm-engineer-toolkit&type=Date)
 
 Please consider giving a star, if you find this repository useful. 
