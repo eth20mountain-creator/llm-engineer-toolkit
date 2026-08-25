@@ -95,6 +95,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 |--------------|------------------------------------------------------------------------------------------------------|-------|
 | LiteLLM      | Library to call 100+ LLM APIs in OpenAI format.                                                        | [Link](https://github.com/BerriAI/litellm) |
 | AI Gateway   | A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.                                                 | [Link](https://github.com/Portkey-AI/gateway) |
+| Bifrost      | High-performance AI gateway with a unified OpenAI-compatible API, multi-provider routing, automatic fallbacks, load balancing, and observability. | [Link](https://github.com/maximhq/bifrost) |
 
 <p align = "center"> <b> Routers </b> </p>
 
