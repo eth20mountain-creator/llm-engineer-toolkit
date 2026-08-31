@@ -101,6 +101,7 @@ Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get 
 
 | Library        | Description                                                                                               | Link  |
 |--------------|------------------------------------------------------------------------------------------------------|-------|
+| OpenRoutiQ   | Explainable, policy-controlled Python router for selecting models, providers, deployments, and reasoning levels, with optional outcome learning and an OpenAI-compatible proxy. | [Link](https://github.com/antat-ai/openroutiq) |
 | RouteLLM     | Framework for serving and evaluating LLM routers - save LLM costs without compromising quality. Drop-in replacement for OpenAI's client to route simpler queries to cheaper models.                                                      | [Link](https://github.com/lm-sys/RouteLLM) |
 
 
